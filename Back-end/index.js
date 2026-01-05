@@ -9,6 +9,7 @@ app.use(cors());
 
 //array que simula um banco de dados 
 const USERS =[
+    
     {id:"1", name:"Carlos",email:"carlos@exemple.com", password:"123456" },
     {id:"2", name:"Maria",email:"maria@exemple.com", password:"123456" },
     {id:"3", name:"Mario",email:"mario@exemple.com", password:"123456" },
